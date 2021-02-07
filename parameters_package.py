@@ -21,7 +21,7 @@ global headers
 global url
 headers = {
     'x-rapidapi-host': "api-football-v1.p.rapidapi.com",
-    'x-rapidapi-key': "06f7fc462emshb598645eb05379bp14829cjsnf273d3a496b4" }
+    'x-rapidapi-key': "" }
 
 url = "https://api-football-v1.p.rapidapi.com/v2/"
 
